@@ -26,6 +26,6 @@ The dataset contains sales transaction data from a global retail store, covering
 ## 🚀 Getting Started  
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/Madhanadeva-D/global-superstore-analysis.git
+   git clone https://github.com/Madhanadeva-D/PowerBI-Global-SuperStore-Analysis.git
 
 
